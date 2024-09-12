@@ -4,4 +4,4 @@
 - **2024.09.12**: Repo is released.
 
 ### Acknowledgement
-This implementation largely depends on [StableSR](https://github.com/IceClear/StableSR), [MGLD](https://github.com/IanYeung/MGLD-VSR), [BasicSR](https://github.com/XPixelGroup/BasicSR). We thank the authors for the contribution.
+This implementation largely depends on [BasicSR](https://github.com/XPixelGroup/BasicSR), [StableSR](https://github.com/IceClear/StableSR), and [MGLD](https://github.com/IanYeung/MGLD-VSR). We thank the authors for the contribution.
